@@ -1,0 +1,37 @@
+{
+  "sunucu": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "mongoDB": "Rebel",
+  "CdSize": 12,
+  "pathCD": "C:/",
+  "tag": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "vanityURL": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "welcome": "https://cdn.discordapp.com/attachments/726393918757011526/791482001509187614/Render_Comp_00120.png",
+  "rebel": "https://cdn.discordapp.com/avatars/676035941357584385/a_8f41a7b9af89f326a376db449fb3ea9d.gif?size=128",
+  "yardımcılar": [
+    
+  ],
+  "yasaklıtag": [],
+  "testers": [
+    
+  ],
+  "status": [
+    {
+      "name": "Rebel 🟃 Reformers",
+      "type": "WATCHING"
+    }
+  ],
+  "kkv": [
+    
+  ],
+  "godtier": [],
+  "rolcüler": [],
+  "urltotal": 8,
+  "lastCrush": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "embed": {
+    "başlık": "Rebel is Watching",
+    "tarih": "Gonna be awesome!"
+  },
+  "taglıalım": false,
+  "ohal": false,
+  "musicbots": []
+}
